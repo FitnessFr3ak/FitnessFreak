@@ -1,0 +1,14 @@
+nav{
+    background-color: black;
+}
+.workout-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#workout-plan{
+    width: 100%;
+}
